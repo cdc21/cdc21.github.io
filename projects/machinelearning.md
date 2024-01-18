@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ML.jpeg
+image: img/ai.jpeg
 title: "Entering the Matrix"
 date: 2023
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A machine learning assignment done in ICS235."
 ---
 
-<img class="img-fluid" src="../img/ML.jpeg">
+<img class="img-fluid" src="../img/ai.jpeg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
