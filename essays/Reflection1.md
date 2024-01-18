@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Javascript Reflection 1"
+title: "Javascript or Javachip"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
