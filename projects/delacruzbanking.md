@@ -8,6 +8,7 @@ published: true
 labels:
   - C++
   - C
+  - Program Structures
 summary: "Dela Cruz Banking is a banking program application created in ICS212."
 ---
 
