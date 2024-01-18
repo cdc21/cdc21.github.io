@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/real_estate.jpg
+image: img/housing.jpeg
 title: "I Heart NY"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A visualization of the NYC housing market that I created in ECON256"
 ---
 
-<img class="img-fluid" src="../img/real_estate.jpg">
+<img class="img-fluid" src="../img/housing.jpeg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
