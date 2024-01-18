@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/meme-720x405.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/meme-720x405.jpeg">
 
 ## So Is It Javascript or Javachip?
 
