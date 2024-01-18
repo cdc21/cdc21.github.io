@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pngimg.com - bank_PNG24.png
+image: img/banking.jpeg
 title: "Dela Cruz Banking"
 date: 2023
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "Dela Cruz Banking is a banking program application created in ICS212"
 ---
 
-<img class="img-fluid" src="../img/pngimg.com - bank_PNG24.png">
+<img class="img-fluid" src="../img/banking.jpeg">
 
 Dela Cruz Banking is a project that I created as a project in ICS212, Fall 2023. This project was the culmination of what I learned in class and helped me learn about different programming structures. 
 
