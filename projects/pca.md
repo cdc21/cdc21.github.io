@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - Python
-summary: "A machine learning assignment that focuses on image compression and clutstering recognition."
+summary: "A machine learning assignment that focuses on image compression and clutstering recognition done in ICS235."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
