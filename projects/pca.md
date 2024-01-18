@@ -7,6 +7,9 @@ date: 2023
 published: true
 labels:
   - Python
+  - Machine Learning
+  - PCA
+  - Clustering
 summary: "A machine learning assignment that focuses on image compression and clutstering recognition done in ICS235."
 ---
 
