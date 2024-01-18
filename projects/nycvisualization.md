@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "NYC Housing"
+title: "I Heart NY"
 date: 2023
 published: true
 labels:
