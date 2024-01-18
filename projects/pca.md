@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - PCA
   - Clustering
-summary: "A machine learning assignment that focuses on image compression and clutstering recognition done in ICS235."
+summary: "A machine learning assignment done in ICS235."
 ---
 
 <img class="img-fluid" src="../img/ML.jpeg">
