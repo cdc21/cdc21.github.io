@@ -33,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science and Economics (expected Spring, 2025)",
+      "studyType": "B.S. & B.A.",
+      "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,12 +43,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Math Department",
+      "position": "Pre-Calculus Learning Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-01-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "A MATH140 Learning Assistant",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
