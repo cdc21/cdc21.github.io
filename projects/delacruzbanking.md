@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/pngimg.com - bank_PNG24.png
 title: "Dela Cruz Banking"
 date: 2023
 published: true
