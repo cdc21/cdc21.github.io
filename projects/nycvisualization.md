@@ -7,6 +7,8 @@ date: 2023
 published: true
 labels:
   - R
+  - Data Visualization
+  - Linear Regression
 summary: "A visualization of the NYC housing market that I created in ECON256"
 ---
 
