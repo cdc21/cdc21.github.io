@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - C++ 
-summary: "Dela Cruz Banking is a banking program application created in ICS212"
+summary: "Dela Cruz Banking is a banking program application created in ICS212."
 ---
 
 <img class="img-fluid" src="../img/banking.jpeg">
