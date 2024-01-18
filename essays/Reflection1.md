@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="img/meme-720x405.webp">
 
   Javascript is a very powerful language that utilizes very familiar concepts from languages that I already know. Javascript is very reminiscent of Java but with less specificity in the code. Getting started with Javascript and being able to code and run my first program took no time at all. However, a few specific aspects of Javascript that seem to be the same as other languages are not, which is quite confusing. For example, to initialize a for loop, you have to use the let keyword instead of int. The minute details are hard to remember but not impossible. 
 
