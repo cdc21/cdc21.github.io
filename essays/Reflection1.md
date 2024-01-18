@@ -16,6 +16,7 @@ labels:
 
   Javascript is a very powerful language that utilizes very familiar concepts from languages that I already know. Javascript is very reminiscent of Java but with less specificity in the code. Getting started with Javascript and being able to code and run my first program took no time at all. However, a few specific aspects of Javascript that seem to be the same as other languages are not, which is quite confusing. For example, to initialize a for loop, you have to use the let keyword instead of int. The minute details are hard to remember but not impossible. 
 
+
 ## Spike, Get, and Set with Javascript!
   The learning curve for Javascript compared to C and C++ is quite low and is very easy to learn. Getting started and being able to create a simple program is very easy if you already have prior knowledge of coding in any other language. Javascript has the look of Java in terms of code but with the functionality and feel of Python, in my opinion. It is quite enjoyable to learn and to type code without thinking of all the specificities as Javascript takes care of that for you. As for learning something new, getter and setter methods in classes are a new concept for me. Being able to specify actions of reading and writing in code for objects is unique. 
 
