@@ -8,19 +8,16 @@ published: true
 labels:
   - R
   - Data Visualization
-  - Linear Regression
 summary: "A visualization of the NYC housing market that I created in ECON256"
 ---
 
 <img class="img-fluid" src="../img/housing.jpeg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I Heart NY is a data visualization final project I created in ECON256, Spring 2023. Although not an ICS class, ECON256 is an economics class that focused on data visualization of different datasets (such as the census' datasets) utilizing the programming language R. For this final project, I wanted to visualize different housing prices throughout the years in the five different boroughs that make up New York City. So, I took a New York City property sales dataset from Kaggle as my main source to visualize in R. I had to clean the dataset myself by removing any empty observations, selecting columns, reformatting, etc. I then visualized the average housing price in each borough. I also used an animation technique that I learned to animate a line graph representing the average housing price in each borough over a year. I then utilized a prediction technique called ARIMA to show how the ARIMA prediction model works and how accurate it is compared to the real dataset. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This final project taught me to get creative with my coding and how to best represent data. This project showed me that coding does not have to be boring. It showed that I could have fun while coding and that code does have personality to it. I also learned how to work independently on this coding project but that I am also able to ask for help when needed. I was able to learn a new coding language and new techniques that I find useful for my future endeavors. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-:
+## Source Code: 
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fcdc21%2FDataVisualization%2Fblob%2F089c2ea8ebf35ccf60df93341b20af9f6760835d%2FFinal_Project.Rmd&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
  
