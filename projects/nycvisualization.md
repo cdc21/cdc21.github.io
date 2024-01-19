@@ -19,6 +19,6 @@ This final project taught me to get creative with my coding and how to best repr
 
 ## Source Code: 
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fcdc21%2FDataVisualization%2Fblob%2F089c2ea8ebf35ccf60df93341b20af9f6760835d%2FFinal_Project.Rmd&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fcdc21%2FDataVisualization%2Fblob%2F5bdd26532ab03a6235a21c7c1d8fab62fdfb5a9d%2FFinal_Project.html&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
  
 Source: <a href="https://github.com/cdc21/DataVisualization/blob/089c2ea8ebf35ccf60df93341b20af9f6760835d/Final_Project.Rmd">DataVisualization/Final Project</a>
