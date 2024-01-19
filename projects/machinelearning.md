@@ -21,8 +21,8 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
-Here is some example code to illustrate Simple Schema use:
+:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fcdc21%2FMachineLearning%2Fblob%2Fd682f41cf959b3aabae567db6ebd8ab9db53ae92%2FDelaCruz_Christian_4.ipynb&style=default&type=ipynb&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/cdc21/MachineLearning/blob/main/DelaCruz_Christian_4.ipynb">MachineLearning/DelaCruz_Christian_4.jpynb</a>
