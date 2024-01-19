@@ -13,7 +13,9 @@ labels:
 summary: "A machine learning assignment done in ICS235."
 ---
 
-<img class="img-fluid" src="../img/ai.jpeg">
+<p align="center">
+<img class="img-fluid" src="../img/robot.jpeg">
+</p>
 
 Entering the Matrix is a machine learning homework assignment that I completed in ICS235, Fall 2023. This assignment utilizes the programming language to showcase the machine learning techniques of Principle Component Analysis and Clustering. This assignment used principle component analysis as a tool for image compression and labeling different clusters of data. For image compression. we used concepts such as explained varaince to showcase how principle component analysis works. It showcases dimensionality reduction of the image using components from PCA to rebuild the image of baby yoda. PCA is also used to classify different clusters of a dataset as it reduces dimensionality of the dataset to better obtain the important information for classification. K-means clustering is a technique utilized to also classify clusters of a dataset using concepts as the inertia as a function of K to best pick the number of clusters. This assignment showcases how the unsupervised learning technique of PCA can be used for multiple things. 
 
