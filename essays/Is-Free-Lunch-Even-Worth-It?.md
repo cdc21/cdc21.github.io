@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Is Free Lunch Ever Worth It?"
+title: "Is Free Lunch Even Worth It?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
 published: true
