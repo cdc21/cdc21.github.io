@@ -20,6 +20,6 @@ Dela Cruz Banking was implemented in the terminal using the progamming language 
 
 This project helped me gain experience in 2 new languages and the use of the MacOS Terminal. I got hands-on experience using a command-line interface using text-based commands on the uhunix servers. 
 
-<script src=https://emgithub.com/cdc21/DelaCruzBanking/blob/e192e3914c5884b88ebe82179043bc1a2fe4bec9/project2/llist.cpp></scrcipt>
+<script src="https://emgithub.com/cdc21/DelaCruzBanking/blob/e192e3914c5884b88ebe82179043bc1a2fe4bec9/project2/llist.cpp"></scrcipt>
 
 Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
