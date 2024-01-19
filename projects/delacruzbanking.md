@@ -12,7 +12,7 @@ labels:
 summary: "Dela Cruz Banking is a banking program application created in ICS212."
 ---
 
-<img class="img-fluid" src="../img/banking.jpg">
+<img class="img-fluid" src="../img/bank.jpeg">
 
 Dela Cruz Banking is a project that I created in ICS212, Fall 2023. It is a banking program that takes user input such as name, account number, and multi-line addresses. It creates a record file filled with each banking entry and saves it to the file. The program utilizes the linked list data structure to store and access these files. It is able to add, delete, print, and find records. Debugging was also a crucial step in creating this program and was used as a tool. Dela Cruz Banking was implemented in the terminal using the progamming language C first, and in the coming weeks, was translated and reimplemented using C++. Within a month-and-a-half, I created a banking program using both C and C++. It is a culmination of what I learned throughout the entire semester such as pointers. 
 
