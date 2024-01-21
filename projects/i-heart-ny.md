@@ -8,7 +8,7 @@ published: true
 labels:
   - R
   - Data Visualization
-summary: "A visualization of the NYC housing market that I created in ECON256"
+summary: "A visualization of NYC property sales that I created in ECON256"
 ---
 
 <p align="center">
