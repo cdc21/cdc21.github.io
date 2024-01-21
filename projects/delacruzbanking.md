@@ -9,7 +9,7 @@ labels:
   - C++
   - C
   - Program Structures
-summary: "Dela Cruz Banking is a banking program application created in ICS212."
+summary: "Dela Cruz Banking is a banking database created in ICS212."
 ---
 
 <p align="center">
