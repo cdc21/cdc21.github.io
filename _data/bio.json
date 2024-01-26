@@ -27,7 +27,9 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS" ]
+      "keywords": [ "MacOS",
+        "UNIX"
+      ]
     }
   ],
   "education": [
