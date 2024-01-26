@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2022-08-24",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS111", "ICS211", "ICS212", "ICS235", "MATH301", "MATH372", "ICS311(ongoing)", "ICS314(ongoing)"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "studyType": "B.A.",
       "startDate": "2022-08-24",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ECON130", "ECON131", "ECON256", "ECON301", "ECON300", "ECON321", "ECON311(ongoing)", "ECON450(ongoing)"
       ]
     }
   ],
