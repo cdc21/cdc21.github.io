@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/questions.jpeg">
+<img width="290px" class="rounded float-start pe-4" src="../img/questions.jpeg">
 
 ## Are There Smart Questions, or Just Foolish People?
 
@@ -48,7 +48,7 @@ var p = {
 
 How do I loop through all of p's elements (p1, p2, p3...) and get their keys and values?
 
-A: ou can use the for-in loop as shown by others. However, you also have to make sure that the key you get is an actual property of an object, and doesn't come from the prototype.
+A: You can use the for-in loop as shown by others. However, you also have to make sure that the key you get is an actual property of an object, and doesn't come from the prototype.
 
 Here is the snippet:
 
@@ -76,7 +76,6 @@ for (var key of Object.keys(p)) {
     console.log(key + " -> " + p[key])
 }
 
-
 Notice the use of for-of instead of for-in, if not used it will return undefined on named properties, and Object.keys() ensures the use of only the object's own properties without the whole prototype-chain properties
 
 Using the new Object.entries() method:
@@ -100,5 +99,4 @@ Another question posted onto Stack Overflow titled *“How do I loop through or 
 Asking smart questions creates efficient communication and is less of a hassle for everyone involved. Lazy questions do not elicit reliable answers and do not get anyone anywhere. Putting in a little more thought and taking the time to form smart questions is the best way to find what you are looking for. Smart questions also help others around you as they may also have the same or similar questions. It's more efficient and produces something of value, rather than everyone being lost and having no idea what is going on. 
 
 Source: <a href="https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object">StackOverflow/SmartQuestion</a>
-
 Source: <a href="https://stackoverflow.com/questions/39130610/how-to-get-console-inside-jsfiddle">StackOverflow/NotSoSmartQuestion</a>
