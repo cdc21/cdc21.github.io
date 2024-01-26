@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="275px" class="rounded float-start pe-4" src="../img/questions.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/questions.jpeg">
 
 ## Are There Smart Questions, or Just Foolish People?
 
