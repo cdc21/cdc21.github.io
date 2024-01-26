@@ -12,7 +12,7 @@ summary: "A visualization of NYC property sales that I created in ECON256"
 ---
 
 <p align="center">
-<img width="1000px" class="img-fluid" src="../img/iheartnyoutput.png">
+<img width="750px" class="img-fluid" src="../img/iheartnyoutput.png">
 </p>
 
 I Heart NY is a data visualization final project I created in ECON256, Spring 2023. Although not an ICS class, ECON256 is an economics class that focused on data visualization of different datasets (such as the census' datasets) utilizing the programming language R. For this final project, I wanted to visualize different housing prices throughout the years in the five different boroughs that make up New York City. So, I took a New York City property sales dataset from Kaggle as my main source to visualize in R. I had to clean the dataset myself by removing any empty observations, selecting columns, reformatting, etc. I then visualized the average housing price in each borough. I also used an animation technique that I learned to animate a line graph representing the average housing price in each borough over a year. I then utilized a prediction technique called ARIMA to show how the ARIMA prediction model works and how accurate it is compared to the real dataset. 
