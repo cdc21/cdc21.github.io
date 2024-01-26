@@ -37,7 +37,15 @@
       "studyType": "B.S.",
       "startDate": "2022-08-24",
       "endDate": "Present",
-      "courses": ["ICS111", "ICS211", "ICS212", "ICS235", "MATH301", "MATH372", "ICS311(ongoing)", "ICS314(ongoing)"
+      "courses": ["ICS111 Intro to Computer Science I",
+        "ICS211 Intro to Computer Science II", 
+        "ICS212 Program Structure", 
+        "ICS235 Machine Learning Methods", 
+        "MATH301 Intro to Discrete Mathematics",
+        "MATH307 Linear Algebra",
+        "MATH372 Elementary Probability and Statistics", 
+        "ICS311 Algorithms (ongoing)", 
+        "ICS314 Software Engineering I (ongoing)"
       ]
     },
     {
@@ -46,7 +54,14 @@
       "studyType": "B.A.",
       "startDate": "2022-08-24",
       "endDate": "Present",
-      "courses": ["ECON130", "ECON131", "ECON256", "ECON301", "ECON300", "ECON321", "ECON311(ongoing)", "ECON450(ongoing)"
+      "courses": ["ECON130 Principles of Microeconomics",
+        "ECON131 Principles of Macroeconomics", 
+        "ECON256 Data Analysis and Visualization", 
+        "ECON301 Intermediate Microeconomics", 
+        "ECON300 Intermediate Macroeconomics", 
+        "ECON321 Intro to Statistics", 
+        "ECON311 The Economy of Hawai‘i (ongoing)", 
+        "ECON450 Public Economics (ongoing)"
       ]
     }
   ],
@@ -71,6 +86,12 @@
       "date": "2021-Present",
       "awarder": "University of Hawai'i Office of Admissions",
       "summary": "Scholarships awarded to incoming freshmen following the completion of their high school diploma with a high school GPA of 3.6+ that is intended to support the student's enrollement for their 4-year college career."
+    },
+    {
+      "title": "Salutatorian, Class of 2021",
+      "date": "2021",
+      "awarder": "Lanakila Baptist High School",
+      "summary": "Recognized for achieving the second-highest academic standing in the graduating class, showcasing dedication to scholastic excellence and leadership."
     }
   ],
   "references": [
