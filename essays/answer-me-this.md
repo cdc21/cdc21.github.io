@@ -99,4 +99,5 @@ Another question posted onto Stack Overflow titled *“How do I loop through or 
 Asking smart questions creates efficient communication and is less of a hassle for everyone involved. Lazy questions do not elicit reliable answers and do not get anyone anywhere. Putting in a little more thought and taking the time to form smart questions is the best way to find what you are looking for. Smart questions also help others around you as they may also have the same or similar questions. It's more efficient and produces something of value, rather than everyone being lost and having no idea what is going on. 
 
 Source: <a href="https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object">StackOverflow/SmartQuestion</a>
+
 Source: <a href="https://stackoverflow.com/questions/39130610/how-to-get-console-inside-jsfiddle">StackOverflow/NotSoSmartQuestion</a>
