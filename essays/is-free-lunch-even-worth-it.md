@@ -10,7 +10,7 @@ labels:
   - Interests
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/freelunch.jpeg">
+<img width="325px" class="rounded float-start pe-4" src="../img/freelunch.jpeg">
 
 ## Who Said Anything About Software Engineering?
   The funny thing is, I did not switch majors to computer science ever planning or dreaming to be a software engineer. Alas, ICS314 is a required class to graduate. My interests lie more in machine learning and data science; although, there are a few things that pique my interests in the realm of software engineering and software development. I would love to learn how to make a website from scratch. I am talking no help, no ChatGPT, no Youtube videos, just what I learn from this class. Is it possible? I'll see about that. On another note, website development is very interesting as the idea of millions, if not billions, of people are/will access a certain website all at once. I find it intriguing how websites don't crash nor do they ever slow down (for the most part). The deeper layers of how websites work is something I am very interested in and would like to know more about as this class progresses.  
