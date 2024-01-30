@@ -18,6 +18,7 @@ One of my friends asked the question earlier last week -- why is it so hard to b
 Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
 
 ## i changed this lol
+## i changed this again for evidence lol
 
 But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
 
