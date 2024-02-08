@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Pilled Code & ESLint Roller
+title: "Pilled Code & ESLint Roller"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: true
