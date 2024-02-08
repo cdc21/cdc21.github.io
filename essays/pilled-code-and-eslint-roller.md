@@ -11,7 +11,7 @@ labels:
   - IntelliJ
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ESLint Roller.jpeg">
+<img width="400px" class="rounded float-start pe-4" src="../img/ESLint Roller.jpeg">
 
 
 ## Ketchup Is To Mustard As IntelliJ Is To What?
