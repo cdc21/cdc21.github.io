@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ESLint Roller.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/ssense DIY.jpg">
 
 
 ## These Boots Were Made For Coding
