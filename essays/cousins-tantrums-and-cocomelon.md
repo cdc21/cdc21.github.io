@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Boots Made For Coding"
+title: "Cousins, Tantrums, and... Cocomelon???"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-22
+date: 2024-04-25
 published: true
 labels:
-  - Bootstrap 5
-  - UI Frameworks
+  - Design Patterns
+  - Software Development
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/ssense DIY.jpg">
+<img width="450px" class="rounded float-start pe-4" src="../img/ipad_kid.jpg">
 
 ## Cousins, Tantrums, and…. Cocomelon???
 
