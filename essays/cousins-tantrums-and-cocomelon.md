@@ -10,7 +10,7 @@ labels:
   - Software Development
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/ipad_kid.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/ipad_kid.jpg">
 
 ## Cousins, Tantrums, and…. Cocomelon???
 
