@@ -10,7 +10,7 @@ labels:
   - Software Engineering 
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/ai-pic.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/ai-pic.jpg">
 
 ### I. Introduction
 Artificial Intelligence, or better known as AI, has become an overnight phenomenon to the 21st century world, especially in education. AI plays a very significant role in higher education as a tool that aids students in doing work or maybe just helps in understanding different topics that are not as clear. In software engineering, AI is a great tool that could either build your entire project for you or be used as a tool for debugging. That is the biggest tool I personally use AI for, which is debugging code. Debugging code, especially when you think your logic is correct, is a pain, but AI is an amazing tool that allows you to see your code clearly and understand where the mistake is. There are many AI tools that aid in this such as GitHub Co-Pilot, but the one I prefer and use all the time is ChatGPT. AI is also great at giving example code that can be used to just spark inspiration or an idea for a project and not just for software engineering. Although, AI is a double edged sword and may not always be of assistance, so be wary. 
