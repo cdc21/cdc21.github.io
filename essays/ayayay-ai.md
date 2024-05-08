@@ -18,18 +18,23 @@ I have used AI in class this semester in the following areas:
 
 ### II. Personal Experience with AI:
   1. Experience WODs e.g. E18
-  For experience WODs, I wouldn’t use any AI tool as I would actually like to practice my skills and I did not see AI being needed for these experiences. For the most part, there were guidethrough videos by the professors that would go through the entire WOD and also explain what was going on and why one would need to do what. There really was no need to use AI for this as there were clear answers already given and was just to learn.
+  
+  * For experience WODs, I wouldn’t use any AI tool as I would actually like to practice my skills and I did not see AI being needed for these experiences. For the most part, there were guidethrough videos by the professors that would go through the entire WOD and also explain what was going on and why one would need to do what. There really was no need to use AI for this as there were clear answers already given and was just to learn.
 
   2. In-class Practice WODs
+  
   For the In-class Practice WODs, I would treat these as real WODs and get a feel for what the actual WOD would be like, so yes, I did use AI tools to aid me. However, I did not just input the prompt into ChatGPT and make it do the work for me. In the beginning, I would mainly use it for things that I just did not know how to do, which was mainly formatting, like “how to get text in the middle of the page” and things like that. I found it quite helpful at times and it would help in these practice WODs.
 
   3. In-class WODs
+  
   For the actual In-class WODs, I for sure used ChatGPT to help me pass these WODs; however, I did not use it as much as I thought I would have. For the most part, I used it very sparingly and would actually try to resolve whatever issue I had on my own before consulting ChatGPT. And when I did use it, it was very useful and helped out a lot as I used it as a last resort option. An example of this would be when during the Morning Brew WOD for meteor, I could not figure out the red buttons for the landing page like the formatting of how it looked on screen and how to make it red. I used ChatGPT to do it for me and it gave me what I asked for. Subsequently, I got a 100/100 on that WOD. However, ChatGPT is not always reliable as it could just lead you on a wild goose chase and cost you a WOD. This happened to me for the Underscore function WOD where we had to use Underscore functions to sort through UH:Manoa degrees and such. I kept putting input through to ChatGPT and it would not give me the answer and would not give me the correct number of degrees. I luckily figured it out on my own and passed that WOD as well. AI can be very helpful, but also drive you straight into the ground if you’re not careful. 
 
   4. Essays
+  
   For essays, I did not use ChatGPT at all to write the essay for me; I didn’t even use it to create an outline for me or use it for writing material. I didn’t even use ChatGPT to come up with the header titles and title for my essay because ChatGPT is not clever enough to come up with funny and punny titles. Luckily, I am a decent writer and good with grammar, so I didn’t need to use ChatGPT for any of my essays at all, including this one. 
 
   5. Final project
+  
   For the final project, I heavily relied on ChatGPT because having to create a full working product is difficult and I did not have a full understanding of how to connect the front end to the database until the very end. An example of how ChatGPT helped me significantly would be when I was trying to create the landing page for when you first enter our website, a user landing page, and a vendor landing page. I had no clue on how to use the ready subscription for different types of accounts and ChatGPT helped me out alot with that database aspect of the final project. 
 
   6. Learning a concept / tutorial
