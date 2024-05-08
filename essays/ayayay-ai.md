@@ -18,7 +18,6 @@ I have used AI in class this semester in the following areas:
 
 ### II. Personal Experience with AI:
   1. Experience WODs e.g. E18
-
   For experience WODs, I wouldn’t use any AI tool as I would actually like to practice my skills and I did not see AI being needed for these experiences. For the most part, there were guidethrough videos by the professors that would go through the entire WOD and also explain what was going on and why one would need to do what. There really was no need to use AI for this as there were clear answers already given and was just to learn.
 
   2. In-class Practice WODs
