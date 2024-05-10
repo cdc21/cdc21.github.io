@@ -11,7 +11,7 @@ labels:
   - Open Source Software
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/ai-pic.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/purple.jpg">
 
 ### All Good Things Must Come To An End
 
