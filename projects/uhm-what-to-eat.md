@@ -13,7 +13,7 @@ summary: "UHM...What To Eat? is the final project me and my team created in ICS3
 ---
 
 <p align="center">
-<img class="img-fluid" src="../img/delacruzbankingoutput.jpg">
+<img class="img-fluid" src="../img/landing-page.jpg">
 </p>
 
 # Overview
@@ -27,5 +27,15 @@ The contribution I made towards this project was creating the landing page for w
 # What New Flavors Have I Tasted
 
 I have learned a lot from this experience, from collobarating with people on a team to actually creating a full fledge working website. This was simultaneously the best project I've worked on and the most stressful I've worked on. The reward of seeing something you created was something else. I also learned people don't put in the same effort as you, but I also learned that working with like minded people who try is something only the universe can bless you with. I am very grateful for my teammates who tried to make this project as good as it can be. I also learned the softtware engineering is not as easy as I thought it was because there are so many tiny details that can not be glossed over. If a small detail is glossed over, it could make your entire page crash and then you spend hours debugging something that was solved by just inserting it into the correct collection. Overall, I have gained so much practical experience that I will take with me into the real world.  
+
+# User Landing Page
+<p align="center">
+<img class="img-fluid" src="../img/user-landing.jpg">
+</p>
+
+# Vendor Landing Page
+<p align="center">
+<img class="img-fluid" src="../img/vendor-landing.jpg">
+</p>
 
 GitHub Page: <a href="https://uhm-what-to-eat.github.io/">UHM...What To Eat? GitHub Organization Page</a>
